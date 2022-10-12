@@ -8,5 +8,5 @@ Utilised 2 datasets, Cresci 2017 datasets and TwitBot 20 datasets and compare ea
 Python 3, Pandas, Numpy, Seaborn, MatplotLib, Sklearn, Keras
 
 2. Code
-The code and datasets can be found under 'Final Project and Code' folder.
+The code and datasets can be found under 'Final Project and Code' folder
 '''
